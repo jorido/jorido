@@ -1,10 +1,5 @@
 ### Hi there, my name is John Do 👋
 
-A little bit about me:
-  - Junior Computer Engineering student @ UBC
-  - Previous experience as a software developer co-op @ Visier 
-
----
 Connect with me 🙌
 
 <a href="https://www.linkedin.com/in/john-jungwoo-do">
